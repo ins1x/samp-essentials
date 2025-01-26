@@ -1,4 +1,4 @@
-# SA Essentials
+# samp-essentials
 
 [![](https://github.com/ins1x/sa-essentials/raw/main/CLEO/(for%20developers)/gta-sa-lib-pack-essentials.png)](https://www.mixmods.com.br/2019/06/sa-essentials-pack/)
 
@@ -9,11 +9,11 @@ Repository forked form [**JuniorDjjr**](https://github.com/JuniorDjjr) [*sa-esse
 # How use it 
 
 You should already have [GTA:SA and SA:MP](https://www.sa-mp.mp/downloads/) installed.
-After install, just copy all files from archive to your Gta San Andreas game directory. You can install all the necessary libraries and not waste time, installing separately and resolving version conflicts. You can just as quickly find the missing libraries, and download them without worrying about authenticity.
+You can install all the necessary libraries at once, and not waste time installing them individually. Or you can just as quickly find the missing libraries and download them separately without worrying about authenticity.
 
-> If you are not installing on a clean gta, but on your own assembly, then do before replacing libs, save the replacement files!
+[![GitHub](https://img.shields.io/badge/DOWNLOAD%20-696969?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ins1x/samp-essentials/archive/refs/heads/main.zip)
 
-# List of libraries
+## What the pack contains
 
 ### Loaders:
 - [ModLoader](https://gtaforums.com/topic/669520-mod-loader/) - is a plugin for Grand Theft Auto III, Vice City and San Andreas that adds an easy and user-friendly way to install and uninstall modifications into the game
@@ -23,7 +23,7 @@ After install, just copy all files from archive to your Gta San Andreas game dir
 ### CLEO:
 - [CLEO 4](http://cleo.li/download.html) - is a hugely popular extensible library plugin which brings new possibilities in scripting for the game Grand Theft Auto: San Andreas by Rockstar Games, allowing the use of thousands of unique mods which change or expand the gameplay. 
 - [CLEO +](https://www.mixmods.com.br/2023/10/cleoplus/) - a CLEO 4 plugin by Junior_Djjr adding about 300 new opcodes
-- [SAMPFUNCS](https://www.blast.hk/threads/17/) - is an add-on to the CLEO 4 library, globally expanding the capabilities of scriptwriters.
+- [SAMPFUNCS 5.4](https://www.blast.hk/threads/17/) - is an add-on to the CLEO 4 library, globally expanding the capabilities of scriptwriters.
 
 > See the https://cleo.li/plugins for some of the available [CLEO plugins](https://cleo.li/download.html#plugins).
 
