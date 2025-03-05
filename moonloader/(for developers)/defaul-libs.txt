@@ -1,0 +1,16 @@
+List of libraries of the current version
+
+Module          Description
+moonloader      includes constants related to MoonLoader
+sampfuncs       constants of the SAMPFUNCS plugin
+bitex           extension of the standard LuaJIT 'bit' library
+vkeys           codes of virtual keyboard keys with auxiliary functions
+vector3d        class of 3D vector
+matrix3x3       class of 3D rotation matrix
+game.models     list of identifiers of the main models of the game
+game.globals    list of identifiers of global variables of the game
+game.keys       list of identifiers of game control keys
+game.weapons    list of identifiers and names of weapons
+encoding        conversion of text encoding
+
+https://wiki.blast.hk/moonloader/libraries

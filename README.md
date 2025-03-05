@@ -69,7 +69,7 @@ You can install all the necessary libraries at once, and not waste time installi
 - [tabler-icons](https://github.com/neverlane/moon-tabler-icons) - tabler.io icons for lua 
 - [xml](https://github.com/lubyk/xml) - Very fast and simple XML parser for Lua based on RapidXML 1.13
 
-> See the https://luarocks.org/modules/fyp for some of the available [Lua modules](https://github.com/orgs/lunarmodules/repositories?type=all).
+> See the https://luarocks.org/modules/fyp for some of the available [Lua modules](https://github.com/orgs/lunarmodules/repositories?type=all).  
 
 ### Audio libs:
 - [eax.dll](https://gamedev.ru/code/terms/EAX) - Environmental Audio Extensions
