@@ -28,10 +28,12 @@ You can install all the necessary libraries at once, and not waste time installi
 > See the https://cleo.li/plugins for some of the available [CLEO plugins](https://cleo.li/download.html#plugins).
 
 ### Moonloader modules:
+- [carbJsonConfigLua](https://github.com/Corenale/carbJsonConfigLua) -  handling JSON configuration files, with special support for FFI cdata structures.
 - [cjson](https://github.com/openresty/lua-cjson/tree/master) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [compat](https://github.com/lunarmodules/lua-compat-5.3) - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
 - [copas](https://github.com/lunarmodules/copas/tree/master) - Dispatcher based on coroutines that can be used by TCP/IP servers
 - [effil](https://github.com/effil/effil) - Multithreading support for Lua
+- [EntityRender](https://github.com/xARMORx/EntityRender) - Library allows rendering entities in mimgui (peds, transport, objects).
 - [fa-icons](https://gitlab.com/THE-FYP/lua-fa-icons-4) - Font Awesome 4 Icons + Font for Lua
 - [fAwesome](https://www.blast.hk/threads/111224/) - Pack fAwesome fonts v4,v5,v6
 - [hooks](https://www.blast.hk/threads/55743/) -  Lua vmt+jmp/call hook
@@ -80,10 +82,13 @@ to use WASAPI output and input
 - [ogg.dll](https://www.rarewares.org/ogg-libraries.php) - Ogg Vorbis Dynamic Link Library
 - [vorbis.dll](https://xiph.org/vorbis/) - Vorbis Dynamic Link Library
 
-### Microsoft libs:
+### MSVC Redist:
 - [msvcr100d.dll](https://www.mixmods.com.br/2015/08/download-de-todas-as-dll-que-voce-precisa/) - Microsoft Visual C++ Redistributable (MSVC) Debug
-- [d3dx9_25.dll, d3dx9_40.dll, d3dx9_43.dll](https://www.microsoft.com/ru-ru/download/details.aspx?id=35) - DirectX Runtime Environment for End Users
 > See the [AIO Repack for latest Microsoft Visual C++ Redistributable Runtimes](https://github.com/abbodi1406/vcredist/releases)
+
+### DirectX and OpenGL libs:
+- [AntTweakBar](https://github.com/tschw/AntTweakBar) library to add light and intuitive GUI to OpenGL and DX programs
+- [d3dx9_25.dll, d3dx9_40.dll, d3dx9_43.dll](https://www.microsoft.com/ru-ru/download/details.aspx?id=35) - DirectX Runtime Environment for End Users
 
 ### Other libs:
 - [libcurl](https://curl.se/libcurl/) - The multiprotocol file transfer library
