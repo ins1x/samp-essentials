@@ -28,12 +28,15 @@ You can install all the necessary libraries at once, and not waste time installi
 > See the https://cleo.li/plugins for some of the available [CLEO plugins](https://cleo.li/download.html#plugins).
 
 ### Moonloader modules:
+- [aeslua](https://github.com/bighil/aeslua) - Implementation of aes in nearly pure lua (bitlib is required)
+- [arizona-events](https://github.com/wojciech941/arizona-events/tree/main) - Arizona packages and CEF interfaces API
 - [carbJsonConfigLua](https://github.com/Corenale/carbJsonConfigLua) -  handling JSON configuration files, with special support for FFI cdata structures.
 - [cjson](https://github.com/openresty/lua-cjson/tree/master) - Lua CJSON is a fast JSON encoding/parsing module for Lua
 - [compat](https://github.com/lunarmodules/lua-compat-5.3) - Compatibility module providing Lua-5.3-style APIs for Lua 5.2 and 5.1
 - [copas](https://github.com/lunarmodules/copas/tree/master) - Dispatcher based on coroutines that can be used by TCP/IP servers
 - [effil](https://github.com/effil/effil) - Multithreading support for Lua
 - [EntityRender](https://github.com/xARMORx/EntityRender) - Library allows rendering entities in mimgui (peds, transport, objects).
+- [extensions-lite](https://github.com/AnWuPP/extensions-lite) - Library and add new functions to the global variables string, bit, tables.
 - [fa-icons](https://gitlab.com/THE-FYP/lua-fa-icons-4) - Font Awesome 4 Icons + Font for Lua
 - [fAwesome](https://www.blast.hk/threads/111224/) - Pack fAwesome fonts v4,v5,v6
 - [hooks](https://www.blast.hk/threads/55743/) -  Lua vmt+jmp/call hook
@@ -48,6 +51,7 @@ You can install all the necessary libraries at once, and not waste time installi
 - [Lrexlib-PCRE](https://luarocks.org/modules/rrt/lrexlib-pcre) - Is a regular expression library, which provides bindings for POSIX and PCRE regular expression libs
 - [LuaFileSystem](https://luarocks.org/modules/fyp/luafilesystem) - File System Library for the Lua Programming Language
 - [lua-requests](https://github.com/THE-FYP/lua-requests) - The same friendly Python Requests interface for Lua
+- [luarocks](https://luarocks.github.io/luarocks/releases/) - LuaRocks is the package manager for the Lua programming language 
 - [LuaSec](https://luarocks.org/modules/fyp/luasec) - A binding for OpenSSL library to provide TLS/SSL communication over LuaSocket
 - [luasql-sqlite](https://lunarmodules.github.io/luasql) - Is a simple interface from Lua to a DBMS Sqlite
 - [lua-socket](https://github.com/lunarmodules/luasocket) - Network support for the Lua language
@@ -70,6 +74,8 @@ You can install all the necessary libraries at once, and not waste time installi
 - [strings](https://github.com/c0sui/lua_strings) - Custom string methods for the lua
 - [tabler-icons](https://github.com/neverlane/moon-tabler-icons) - tabler.io icons for lua 
 - [xml](https://github.com/lubyk/xml) - Very fast and simple XML parser for Lua based on RapidXML 1.13
+- [xmlxandler](https://github.com/manoelcampos/xml2lua/tree/master) - XML Parser written entirely in Lua that works for Lua 5.1+. Convert XML to and from Lua Tables 
+- [websockets](https://github.com/lipp/lua-websockets) - Websockets for Lua. 
 
 > See the https://luarocks.org/modules/fyp for some of the available [Lua modules](https://github.com/orgs/lunarmodules/repositories?type=all).  
 
